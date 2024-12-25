@@ -1,7 +1,5 @@
-- 👋 Hi, I’m wuzhihang
-- 👀 I’m interested in IoT
-- 🌱 I'm learning how to be a good architect
-- 💞️ Is looking for cooperation, can quickly build a project of the foundation project (mainly oriented to the Internet of Things) solution
+- 👋 wuzhihang
+- 💞️ We hope to contribute to the Internet of Things
 - 📫 wzh3280@126.com
 
 <!---
